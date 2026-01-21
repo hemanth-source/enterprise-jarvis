@@ -7,7 +7,7 @@
 Enterprise Jarvis is a **self-hosted, AI-powered enterprise assistant** inspired by tools like ChatGPT and internal copilots used in modern organizations.
 It allows users to query internal knowledge using **Retrieval-Augmented Generation (RAG)** powered by a local LLM and a vector database.
 
----
+----
 
 ##  Features
 
