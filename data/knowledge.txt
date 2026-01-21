@@ -1,0 +1,7 @@
+Diligent is a governance, risk, and compliance (GRC) SaaS platform.
+
+The platform helps boards and executives make better decisions.
+
+Enterprise AI assistants can reduce operational overhead.
+
+Vector databases allow semantic search over large documents.
